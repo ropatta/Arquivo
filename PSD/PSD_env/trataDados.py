@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #coding: utf-8
-#testando git
+#
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
