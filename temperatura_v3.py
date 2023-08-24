@@ -4,6 +4,8 @@ import os
 import time
 import csv
 
+er
+
 sensores = []
 
 projeto = '/home/mdl/codes/PSD'
